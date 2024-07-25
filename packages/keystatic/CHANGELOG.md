@@ -1,5 +1,11 @@
 # @keystatic/core
 
+## 0.5.30
+
+### Patch Changes
+
+- [#1243](https://github.com/Thinkmill/keystatic/pull/1243) [`251cda5`](https://github.com/Thinkmill/keystatic/commit/251cda5fa688e47e136dd12579a06b8fb4368935) Thanks [@emmatown](https://github.com/emmatown)! - Add `transformFilename` option to `fields.image`/`fields.file`/image options in `fields.markdoc`/`fields.mdx`
+
 ## 0.5.29
 
 ### Patch Changes
